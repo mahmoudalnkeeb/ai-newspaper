@@ -1,3 +1,9 @@
+# contains secrets
+run.sh
+
+# generated files
+articles/*.json
+
 # Logs
 logs
 *.log
