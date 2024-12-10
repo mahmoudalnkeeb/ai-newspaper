@@ -1,2 +1,3 @@
-# ai-newspaper
-automated news with web scraping and LLM
+# aiticle
+
+create personalized articles using groq and llama3-8b-8192
